@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta property="article:published_time" content="2018-01-09T05:31:02.104Z" />
+</head>
+
+<body>
+    <main>
+        <article>
+            <section>
+                <div class="pw-post-title">
+                    <h1>PublishPost!</h1>
+                </div>
+                <p class="pw-post-body-paragraph">
+                    This is a test HTML page that you can import to Medium as 
+                    a template to publish your post.
+                </p>
+                <p class="pw-post-body-paragraph">
+                    You'll know when you've successfully published your post
+                    by looking at the bottom of your article when you import
+                    to Medium: it should say something like: "Originally 
+                    published at *** on [Whatever your date is]."
+                </p>
+            </section>
+        </article>
+    </main>
+</body>
+
+</html>
